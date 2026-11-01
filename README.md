@@ -102,12 +102,12 @@ Es ist ein zentrales Modul der QUEAST‑Familie.
 
 ---
 
-# 🔒 LICENSE-CLOSED.txt
+# 🔒 LICENSE
 
 Copyright (c) 2026 iki1uc
 
 Alle Rechte vorbehalten.
-
+discord open alle wieimmer iki1uc license server
 Dieses Projekt ist proprietär.
 Das Kopieren, Klonen, Forken, Verbreiten, Modifizieren oder
 kommerzielle Nutzen ist ohne schriftliche Erlaubnis verboten.
